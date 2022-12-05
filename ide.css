@@ -1,0 +1,96 @@
+
+
+#prvi{
+    background-color: rgb(0, 247, 255);
+    width: 50vw; height: 8vw;
+    border: 5px red;
+    border-radius: 10vw;
+    box-sizing: border-box;
+    padding: 2vw 3vw;
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+    margin-left: 25vw;
+    text-align: center;
+    
+}
+
+#drugi {
+    font-size: 25px;
+    background-color: rgb(154, 166, 173);
+    color: black;
+    border: 5px solid green;
+    padding: 20px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;  
+}
+
+#treci {
+    font-size: 25px;
+    background-color: rgb(116, 134, 32);
+    color: black;
+    border: 5px solid rgb(90, 209, 90);
+    padding: 20px 30px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+
+
+#sedmi {
+
+    font-size: 25px;
+    background-color: rgb(154, 166, 173);
+    color: black;
+    border: 5px solid green;
+    padding: 20px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    color: green; 
+}
+
+body {
+    background-image: linear-gradient(
+      0deg,
+      rgb(28, 121, 70) 23.8%,
+      rgb(27, 68, 75) 92%
+     
+    );
+    height: 100vh;
+    flex-direction: column;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+
+  }
+
+  #osmi{
+      text-align: right;
+      width: 50vw; height: 8vw;
+      border: 5px red;
+      border-radius: 10vw;
+      box-sizing: border-box;
+      padding: 2vw 3vw;
+      margin-top: 0vw;
+      margin-bottom: 1vw;
+      margin-left: 52vw;
+      text-align: right; 
+  }
+  
+  #deveti {
+      text-align: center;
+      margin-left: 23.3vw;
+      margin-top: -134px;
+    }
+  #deseti {
+    text-align: center;
+    margin-left: -9.5vw;
+    margin-top: -262px;
+  }
+  
